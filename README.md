@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lazeruth
-- 👀 I’m interested in ... Programming, Data Analytics, FFXI
+- 👀 I’m interested in ... Software Development, Game Development
 - 🌱 I’m currently learning ... CompSci degree, C++, Python, Lua, SQL 
 - 💞️ I’m looking to collaborate on ... Any type of coding projects
 - 📫 How to reach me ... Leave me a message here
